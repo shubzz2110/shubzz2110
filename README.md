@@ -42,7 +42,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with over 4 years of experience building scalable web apps, stunning frontends, and secure backends.  
+I'm a passionate **Full Stack Developer** with over 6 years of experience building scalable web apps, stunning frontends, and secure backends.  
 Whether it's spinning up a CI/CD pipeline or fine-tuning database queries for real-time performance — I live to **solve problems and ship value**.
 
 I love translating **business logic into clean code**, crafting elegant UI from Figma, and writing medium articles when the headphones are on and lofi is flowing.  
