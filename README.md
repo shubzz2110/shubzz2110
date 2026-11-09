@@ -1,84 +1,129 @@
-# 👋 Hello There! I'm Shubham Homkar
+<div align="center">
 
-🚀 Full Stack Developer | 🧠 Problem Solver | 💡 Tech Enthusiast  
-📍 Pune, India | 🌐 [Portfolio](https://portfolio-one-blush-55.vercel.app) | 📫 homkar1997@gmail.com
+# Shubham Homkar
 
----
+### Full Stack Developer | SaaS & AI-Powered Web Apps
 
-## 🛠️ Tech Stack
+I build scalable, secure, and production-ready software.
 
-### 💻 Frontend
-![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00c58e?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PrimeVue](https://img.shields.io/badge/PrimeVue-5e35b1?style=for-the-badge)
+📍 Pune, India
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-ff6600?style=for-the-badge)
-![Sockets](https://img.shields.io/badge/Sockets-4a90e2?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamhomkar.me-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shubhamhomkar.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-homkar-65b067234)
+[![Email](https://img.shields.io/badge/Email-homkar1997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:homkar1997@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@homkar1997)
 
-### 🧠 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ DevOps & Mobile
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=black)
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate **Full Stack Developer** with over 6 years of experience building scalable web apps, stunning frontends, and secure backends.  
-Whether it's spinning up a CI/CD pipeline or fine-tuning database queries for real-time performance — I live to **solve problems and ship value**.
+I am a Full Stack Developer with **5+ years of experience** building SaaS products and AI-powered web applications. I enjoy turning business ideas into clean, simple code and shipping features that people actually use.
 
-I love translating **business logic into clean code**, crafting elegant UI from Figma, and writing medium articles when the headphones are on and lofi is flowing.  
-In my downtime, you'll find me playing around with new tech or dominating on krunker.io 🎮
+My strongest areas are:
 
----
-
-## 🔥 Featured Project
-
-### 🎯 [FundedStake](https://funded-stake-dev.web.app/auth/login)
-> A dynamic platform for betting on sports and games.
-
-- 🔐 **Secure Auth**: Google Auth + Firebase Auth
-- ⚙️ **Backend**: Firebase Functions, Firestore, Realtime DB, Scheduled Jobs
-- 🎨 **Frontend**: React + TypeScript + Zustand
-- 🚀 **CI/CD**: GitHub Actions → Firebase Hosting
+- **System design** and **backend architecture**
+- **Multi-tenant SaaS** with role-based access control (RBAC)
+- **Performance**, real-time data, and clean code
+- **AI-assisted development** with Cursor and GitHub Copilot
 
 ---
 
-## 📞 Contact Me
+## What I Am Working On
 
-- 📧 Email: [homkar1997@gmail.com](mailto:homkar1997@gmail.com)
-- 🌐 Portfolio: [portfolio-one-blush-55.vercel.app](https://portfolio-one-blush-55.vercel.app)
-- 📝 Blog: [Medium](https://medium.com/@homkar1997)
-- 💼 LinkedIn: [linkedin.com/in/shubham-homkar-65b067234](https://www.linkedin.com/in/shubham-homkar-65b067234)
+I am a **Senior Full Stack Developer at Purposefy**, where I am building a multi-tenant ESG platform with:
 
----
-
-## ❤️ Fun Facts
-
-- 🧠 Can code for 24 hours straight (tested ✅)
-- 🎧 Addicted to lofi and clean UIs
-- 🤖 Always exploring the next big thing in tech
-- 🧾 Obsessed with writing clean, reusable, scalable code
+- AI-based reporting and RFP automation
+- Benchmarking across **500+ Fortune companies**
+- Compliance automation and a simulation engine for forecasting ESG results
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+## Tech Stack
 
+**Frontend**<br>
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+
+**Backend**<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=flat-square)
+
+**Databases**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**DevOps & Cloud**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**AI-Assisted Development**<br>
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+## Featured Project
+
+### [FundedStake](https://funded-stake-dev.web.app/auth/login)
+
+A real-time sports and games platform with secure sign-in and live updates.
+
+- **Authentication:** Google Auth and Firebase Auth
+- **Backend:** Firebase Functions, Firestore, Realtime Database, and scheduled jobs
+- **Frontend:** React, TypeScript, and Zustand
+- **CI/CD:** GitHub Actions to Firebase Hosting
+
+---
+
+## Other Work
+
+- **Dental CRM and Aligner Workflow Platform:** A healthcare SaaS app for dentists and labs, built with Next.js, Express.js, MongoDB, BullMQ, and Stripe.
+- **Multi-tenant ESG SaaS platform:** Role-based access, reporting pipelines, and AI features (built at Purposefy).
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubzz2110&show_icons=true&hide_border=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubzz2110&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## Let's Connect
+
+I am always happy to talk about software, system design, and new ideas.
+
+- 📧 [homkar1997@gmail.com](mailto:homkar1997@gmail.com)
+- 🌐 [shubhamhomkar.me](https://shubhamhomkar.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubham-homkar-65b067234)
+- 📝 [Medium](https://medium.com/@homkar1997)
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
